@@ -17,4 +17,4 @@ function highestSum(x, y) {
   }
 }
 
-module.exports = highestSum
+module.exports = highestSum;

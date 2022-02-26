@@ -10,5 +10,4 @@ function divisible(a) {
   return count;
 }
 
-
-module.exports = divisible
+module.exports = divisible;
